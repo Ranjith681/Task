@@ -1,0 +1,15 @@
+                                                              
+A. What is reverse-i-search in a Linux terminal?
+->Its used to find past commands.
+Activate reverse-i-search using Ctrl+r and then type in a query to find matches.
+
+B. How do you list out the hidden directories using Linux command line tool? 
+->Command ls -a is mostly used to list the hidden directories.
+
+C. How comfortable are you with using Linux-based OS like Ubuntu, Centos, etc? 
+->While using os like ubuntu or centos are any other linux distro you will have number of choices to pick and choose.
+Even if you are not satisfied with the choices are available we can choose to customize are create our own distro.
+When compare to other kind of os like mac or windows linux gives the user more freedom to work with the operating system.
+
+D. Have you ever used Servers to host any web applications in the past? If yes, what services did you set up (Like- Apache/Nginx/FTP/SMTP, etc)?
+->SMTP->Its used to send and receive mails.
